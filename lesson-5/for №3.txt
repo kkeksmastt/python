@@ -1,0 +1,4 @@
+Ivanov 21000
+Gareev 34000
+Gardeev 52100
+Ivleev 19000
